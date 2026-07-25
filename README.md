@@ -1,2 +1,10 @@
 # my_dev_journey
-Documenting my journey as a junior software developer through practical projects.
+  Documenting my journey as a junior software developer through practical projects.
+## Welcome to My Development Journey
+  This repository documents my learning path as a junior software developer through practical projects. Each project is an opportunity to improve my programming skills, problem-solving abilities, and understanding of software development best practices. As I continue learning new programming languages, technologies, and concepts, I will organize and document my progress here. More than just a collection of code, this repository reflects my commitment to continuous learning, consistency, and becoming a better developer every day.
+
+## About Me
+  I am a junior software developer and technology enthusiast currently building my knowledge in software development, programming, and computer science. I am a high school student at SESI and a Systems Development student at SENAI, where I am developing my technical skills and exploring different areas of technology. I believe that programming is not only about writing code, but also about understanding problems, creating solutions, and continuously improving the way we think. Through consistent learning, practical projects, and curiosity, my goal is to develop a strong foundation and grow as a professional in the technology field.
+
+## About This Project
+  The purpose of this project is to document my journey as a junior software developer through a structured collection of practical programming projects. This repository is organized into four learning paths: 15 projects in C to build a strong foundation in programming logic, data structures, and low-level concepts, 15 projects in Python focused on developing clean, maintainable, and scalable software, 10 projects in SQL dedicated to database design and querying, and 10 integrated projects that combine multiple technologies to simulate real-world applications. Each project represents a new learning milestone and reflects my commitment to continuous learning, disciplined practice, and professional growth as a software developer.
