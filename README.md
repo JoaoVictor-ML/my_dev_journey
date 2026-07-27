@@ -1,4 +1,4 @@
-# my_dev_journey
+# My Dev Journey
   Documenting my journey as a junior software developer through practical projects.
 ## Welcome to My Development Journey
   This repository documents my learning path as a junior software developer through practical projects. Each project is an opportunity to improve my programming skills, problem-solving abilities, and understanding of software development best practices. As I continue learning new programming languages, technologies, and concepts, I will organize and document my progress here. More than just a collection of code, this repository reflects my commitment to continuous learning, consistency, and becoming a better developer every day.
